@@ -1,0 +1,25 @@
+{
+  "name": "truffle-uniswap-sandbox",
+  "version": "1.0.0",
+  "description": "Truffle Box for creating a Uniswap sandbox.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanJCasey/truffle-uniswap-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanJCasey/truffle-uniswap-sandbox/issues"
+  },
+  "homepage": "https://github.com/SeanJCasey/truffle-uniswap-sandbox#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.3.0"
+  }
+}
