@@ -2,7 +2,7 @@ pragma solidity ^0.5.0;
 
 import "../../node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol";
 
-contract ConsensysToken is ERC20 {
+contract TruffleToken is ERC20 {
     string public name = "Truffle Token";
     string public symbol = "TT";
     uint public decimals = 18;
