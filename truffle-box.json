@@ -6,9 +6,9 @@
   "commands": {
     "Compile contracts": "truffle compile",
     "Migrate contracts": "truffle migrate",
-    "Test contracts": "truffle test"
+    "Console (local blockchain)": "truffle console --network development"
   },
   "hooks": {
-    "post-unpack": ""
+    "post-unpack": "npm i"
   }
 }
